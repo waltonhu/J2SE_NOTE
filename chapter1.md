@@ -31,7 +31,7 @@ int [5]; //非法
 
   数组名 = new数组元素的类型[数组元素的个数]  
 
-##### (notice：Java里初始化堆内存里的东西，基本类型能是0的就初始化为0，Boolean类型是false，引用类型则是空值null）
+##### (notice：Java里声明后未赋值前会自动有一个初始化，基本类型能是0的就初始化为0，Boolean类型是false，引用类型则是空值null）
 例：
 
 ![](/assets/1.png)
