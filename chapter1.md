@@ -36,6 +36,7 @@ int [5]; //非法
 例：
 
 ![](/assets/1.png)
+
 执行后：
 
 ![](/assets/2.png)
