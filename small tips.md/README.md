@@ -1,0 +1,1 @@
+Some tips or need to be noticed point for J2SE will be listed here.
