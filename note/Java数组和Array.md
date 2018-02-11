@@ -17,7 +17,7 @@
 int a1[]; int[] a2;
 Person[] p1; String s1[];
 int[] anArray ;   //这一步只是做了声明，内存中并没分配，这一点是和C/C++不同的地方
-anArray = new int[10];  //这一步数组才真正建立
+anArray = new int[10];//这一步数组才真正建立
 `
 
 * Java语言中声明数组时不能指定其其长度（数组中元素的个数），例如：
