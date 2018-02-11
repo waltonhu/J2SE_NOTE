@@ -12,6 +12,7 @@
 * 一维数组的声明方式：
 
 ``` type var[]; &nbsp; &nbsp;或type[] var;```
+
 * 例如：
 ```
 int a1[]; int[] a2;
