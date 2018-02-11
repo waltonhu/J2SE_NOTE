@@ -17,6 +17,7 @@ public class TestArray {
 	
 	private static void selectionSort(int[] a) {	
 		int temp;
+		//外层循环取数，i表示第i个数
 		for(int i=0; i<a.length-1; i++) {
 			for(int j=i+1; j<a.length; j++){
 			if(a[i] > a[j]) {
