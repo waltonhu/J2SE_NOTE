@@ -1,6 +1,6 @@
 # 选择排序算法Java实现：
 
-code（TestArray.java\)：
+* code（TestArray.java\)：
 
 ```java
 public class TestArray {
@@ -44,6 +44,8 @@ public class TestArray {
     }
 }
 ```
+
+* 但是这样的选择排序效率并不高，因为在j循环里每一次比较，若符合 `a[i] > a[j]` 条件，就会交换一次，若有多个数都比这个a[i]小，那么就需要交换多次，没有必要交换多次，我们需要改善这种算法使每次j循环里遍历完只交换一次，以提高效率。
 
 
 
