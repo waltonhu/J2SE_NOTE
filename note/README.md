@@ -1,0 +1,1 @@
+This is my note that I took while reviewing knowledge of J2SE to deepen my foundation.
